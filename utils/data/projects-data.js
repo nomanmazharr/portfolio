@@ -2,7 +2,6 @@ import configpilot from '/public/image/configpilot.png';
 import colabcube from '/public/image/colabcube.png';
 import green_pulse from '/public/image/green_pulse.png';
 import compassai from '/public/image/compassai.png';
-import { config } from 'next/dist/build/templates/pages';
 
 export const projectsData = [
     {
@@ -31,7 +30,7 @@ export const projectsData = [
     },
     {
         id: 3,
-        hackathon_name: 'Tell Us a Climate Story [2024 NASA Space Apps Challenge]',
+        hackathon_name: 'Tell Us a Climate Story [2024 NASA Space Apps]',
         hackathon_submission_link: 'https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/green-pulse-nasa-hackathon/',
         name: 'Tales from the Atmosphere',
         description: 'Led a team to develop "Tales from the Atmosphere," a project that visualizes CO₂ emissions from various countries to enhance climate change awareness. Using Python and Pandas for data processing, we crafted interactive graphs and maps with Plotly, allowing users to explore emissions data in an engaging format. Additionally, I built a user-friendly website with WordPress and Elementor to present this data in an accessible way, aiming to promote climate education.',
