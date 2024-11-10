@@ -1,3 +1,5 @@
+// data/projects.js
+
 const projects = [
     {
         cover_image: '/image/colabcube.png',

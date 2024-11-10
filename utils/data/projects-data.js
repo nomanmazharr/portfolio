@@ -1,6 +1,6 @@
-import configpilot from '/public/image/configpilot.png';
+import configpilot from '/public/image/configpilot.jpg';
 import colabcube from '/public/image/colabcube.png';
-import green_pulse from '/public/image/green_pulse.png';
+import green_pulse from '/public/image/nasa.jpg';
 import compassai from '/public/image/compassai.png';
 
 export const projectsData = [
